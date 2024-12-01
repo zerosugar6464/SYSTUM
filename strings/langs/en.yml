@@ -127,7 +127,7 @@ cplay_5: "Yalnızca kanallar desteklenir."
 cplay_6: "» Bu gruba bağlanmak için {0} kanalının <b>sahibi</b> olmanız gerekir.\n<b>Kanalın sahibi :</b> @{1}\n \nAlternatif olarak grubunuzu bu kanala bağlayabilir ve ardından <code>/channelplay linked</code> ile bağlanmayı deneyebilirsiniz"
 cplay_7: "» Kanal oynatma devre dışı bırakıldı."
 
-play_1: "🎙"
+play_1: "❤️‍🔥"
 play_2: "<b>➻ Kanal Oynatma Modu</b>\n\nİşleniyor, lütfen bekleyin...\n\n<b>Bağlantılı Kanal :</b> {0}"
 play_3: "» Sorgu işlenemedi."
 play_4: "<b>Yalnızca yöneticiler oynar</b>\nYalnızca bu sohbetin yöneticilerinin oynamasına izin verilir\n\nOynatma modunu /playmode aracılığıyla değiştirin"
@@ -166,10 +166,10 @@ queue_6 : "<b>🕚 Süre :</b> Bilinmeyen Akış\n\nTam sıra listesini almak i�
 queue_7 : "\nAşağıdaki düğmeye tıklayın."
 queue_8 : "<b>{0} Oyuncu</b>\n\n🎄 <b>Yayın:</b> {1}\n\n🔗 <b>Yayın Türü :</b> {2}\ n🥀 <b>İstek Sahibi :</b> {3}\n{4}"
 
-stream_1 : "➲ <b> akış başladı |</b>\n\n<b>‣ bilgi :</b> <a href={0}>{1}</a>\n<b>‣ süre :</b> {2} dakika\n<b>‣ talep eden :</b> {3}"
+stream_1 : "➲ <b> Yayın başladı |</b>\n\n<b>‣ bilgi :</b> <a href={0}>{1}</a>\n<b>‣ süre :</b> {2} dakika\n<b>‣ Talep eden :</b> {3}"
 stream_2 : "➲ <b> akış başladı |</b>\n\n<b>‣ akış türü :</b> Canlı yayın [link]\n<b>‣ talep eden :</b> {0}"
 
-CLOSE_BUTTON : "Kapat"
+CLOSE_BUTTON : "Menüyü kapat"
 BACK_BUTTON : "geri"
 
 S_B_1 : "✅Beni grubuna ekle✅"
