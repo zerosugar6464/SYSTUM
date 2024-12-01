@@ -28,8 +28,8 @@ from config import BANNED_USERS, lyrical
 @app.on_message(
     filters.command(
         [
-            "oynat",
-            "voynat",
+            "play", "oynat",
+            "vplay", "voynat",
             "cplay",
             "cvplay",
             "playforce",
